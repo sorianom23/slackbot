@@ -1,5 +1,5 @@
 # Slack Bot (Version 1) 
-![Slack logo](slacklogo.svg.png)
+![Slack logo](slacklogo.png)
 ##### Date: July 2022
 #### Created by: Maria Soriano 👋🏼
 
